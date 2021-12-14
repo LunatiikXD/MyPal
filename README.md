@@ -21,11 +21,4 @@ The goal of Mypal is to provide a current, secure, and reliable web browser for 
 
 Mypal [documentation](https://github.com/Feodor2/Mypal/wiki) is available online in wiki format.
 
-### Support / Contact
 
-Support is provided exclusively on GitHub. Please be patient with your support requests. You can also review existing [issues](https://github.com/Feodor2/Mypal/issues) on GitHub before requesting support.
-
-Please do not request support from Moonchild Productions or in Pale Moon forums. Mypal is an independent project and support is provided solely on GitHub by me.
-
-You may donate but only via [DASH](https://www.dash.org/): XetK1TDBqVAyqnTJUd65g9Pi1HcQEtFF2c</br>
-Point on #284 to make me know.
