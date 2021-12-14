@@ -10,7 +10,7 @@ The goal of Mypal is to provide a current, secure, and reliable web browser for 
 
 ### Requirements
 
-1) SEE2 CPU (Pentium4+), thoug i do on ocassion special SSE builds (Pentium3, AtlonXP) look [here](https://github.com/Feodor2/Mypal/issues/126)
+1) SEE2 CPU (Pentium4+), though i do on ocassion special SSE builds (Pentium3, AtlonXP))
 2) Windows XP SP3 or 64 SP2
 
 
