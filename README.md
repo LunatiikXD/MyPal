@@ -1,5 +1,7 @@
 ### About Mypal
 
+I am forking the latest code of Mypal we have that's available. Fuck Tobin and his bullshit. Mypal is the best available browser for Windows XP and Windows Vista. The code will not be taken down unless force is taken.
+
 Mypal is a current and maintained Windows XP web browser. Mypal is based on Moonchild Productions' Pale Moon code, which itself was forked from Mozilla's FireFox code several years ago, but is also maintained and kept current.
 
 The goal of Mypal is to provide a current, secure, and reliable web browser for Windows XP. Mypal operates identically to Pale Moon with some minor exceptions. Introduced new portable system and certain settings, including unused legacy Mozilla code, have been removed.
