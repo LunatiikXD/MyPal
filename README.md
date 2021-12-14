@@ -13,12 +13,5 @@ The goal of Mypal is to provide a current, secure, and reliable web browser for 
 1) SEE2 CPU (Pentium4+), thoug i do on ocassion special SSE builds (Pentium3, AtlonXP) look [here](https://github.com/Feodor2/Mypal/issues/126)
 2) Windows XP SP3 or 64 SP2
 
-### Download / Updates
-
-[Download](https://github.com/Feodor2/Mypal/releases) Mypal at GitHub. Automatic updates are disabled by default, but you can enable them in Tools/Preferences/Advanced, on the Update tab. Updates can be installed over existing Mypal installations without loss of data and settings.
-
-### Documentation
-
-Mypal [documentation](https://github.com/Feodor2/Mypal/wiki) is available online in wiki format.
 
 
